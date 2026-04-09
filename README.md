@@ -10,6 +10,9 @@
     <img src="https://img.shields.io/badge/Focus-AI%20Product-111827?style=flat-square&labelColor=0f172a&color=374151" alt="Focus AI Product" />
     <img src="https://img.shields.io/badge/Role-Product%20Manager-111827?style=flat-square&labelColor=0f172a&color=374151" alt="Role Product Manager" />
   </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/LaplaceYoung/LaplaceYoung/main/assets/no-darkness-banner.svg" alt="Ambient backdrop band" />
+  </p>
 </div>
 
 ---
@@ -26,6 +29,10 @@
 - Design around user intent, not interface noise.
 - Turn uncertainty into roadmap, then roadmap into shipping rhythm.
 - Keep architecture and product decisions understandable over time.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LaplaceYoung/LaplaceYoung/main/assets/no-darkness-divider.svg" alt="Section divider" />
+</p>
 
 ## GitHub Overview
 
@@ -49,6 +56,10 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaplaceYoung&bg_color=0D1117&color=9CA3AF&line=6B7280&point=E5E7EB&area=true&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LaplaceYoung/LaplaceYoung/main/assets/no-darkness-divider.svg" alt="Section divider" />
 </p>
 
 ## Selected Work
