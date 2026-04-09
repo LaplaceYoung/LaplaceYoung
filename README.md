@@ -70,6 +70,38 @@
 | Product Strategy Case | Placeholder | Problem framing and outcome narrative in progress. |
 | Build-to-Insight Tooling | Placeholder | From prototype iteration to measurable value. |
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LaplaceYoung/LaplaceYoung/main/assets/no-darkness-divider.svg" alt="Section divider" />
+</p>
+
+## Book & Film Picks
+
+<table>
+  <tr>
+    <td align="center">
+      <img width="170" src="https://raw.githubusercontent.com/LaplaceYoung/LaplaceYoung/main/assets/picks/old-tales-retold.svg" alt="Old Tales Retold cover" />
+      <br />
+      <strong>Old Tales Retold</strong>
+      <br />
+      <sub>Lu Xun · Book</sub>
+    </td>
+    <td align="center">
+      <img width="170" src="https://raw.githubusercontent.com/LaplaceYoung/LaplaceYoung/main/assets/picks/soul-mountain.svg" alt="Soul Mountain cover" />
+      <br />
+      <strong>Soul Mountain</strong>
+      <br />
+      <sub>Gao Xingjian · Book</sub>
+    </td>
+    <td align="center">
+      <img width="170" src="https://raw.githubusercontent.com/LaplaceYoung/LaplaceYoung/main/assets/picks/requiem-for-a-dream.svg" alt="Requiem for a Dream cover" />
+      <br />
+      <strong>Requiem for a Dream</strong>
+      <br />
+      <sub>Darren Aronofsky · Film</sub>
+    </td>
+  </tr>
+</table>
+
 ## Current Direction
 
 > Quiet aesthetics. Practical products. Continuous refinement.

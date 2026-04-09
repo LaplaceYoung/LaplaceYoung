@@ -1,0 +1,25 @@
+<svg width="360" height="520" viewBox="0 0 360 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="360" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05060D"/>
+      <stop offset="0.6" stop-color="#0D1022"/>
+      <stop offset="1" stop-color="#070A14"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(184 164) rotate(90) scale(106 146)">
+      <stop stop-color="#93C5FD52"/>
+      <stop offset="1" stop-color="#93C5FD00"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="6" y="6" width="348" height="508" rx="18" fill="url(#bg)" stroke="#93C5FD40" stroke-width="2"/>
+  <rect x="36" y="66" width="288" height="188" rx="10" fill="url(#halo)"/>
+  <circle cx="180" cy="168" r="48" stroke="#BFDBFE88" stroke-width="4"/>
+  <path d="M180 118V218" stroke="#93C5FD77" stroke-width="2"/>
+  <path d="M130 168H230" stroke="#93C5FD77" stroke-width="2"/>
+
+  <text x="42" y="314" fill="#DBEAFE" font-size="30" font-family="'Georgia', 'Times New Roman', serif" letter-spacing="1.2">REQUIEM</text>
+  <text x="42" y="350" fill="#DBEAFE" font-size="30" font-family="'Georgia', 'Times New Roman', serif" letter-spacing="1.2">FOR A DREAM</text>
+
+  <text x="44" y="394" fill="#93C5FD" font-size="14" font-family="'IBM Plex Sans', 'Segoe UI', sans-serif" letter-spacing="2">DARREN ARONOFSKY</text>
+  <text x="44" y="426" fill="#60A5FA" font-size="12" font-family="'IBM Plex Sans', 'Segoe UI', sans-serif" letter-spacing="1.4">FILM PICK</text>
+</svg>
